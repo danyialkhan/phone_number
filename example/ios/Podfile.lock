@@ -2,13 +2,13 @@ PODS:
   - Flutter (1.0.0)
   - phone_number (2.0.2):
     - Flutter
-    - PhoneNumberKit/PhoneNumberKitCore (= 3.7.2)
-  - PhoneNumberKit/PhoneNumberKitCore (3.7.2)
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.7.4)
+  - PhoneNumberKit/PhoneNumberKitCore (3.7.4)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - phone_number (from `.symlinks/plugins/phone_number/ios`)
-  - PhoneNumberKit/PhoneNumberKitCore (from `https://github.com/marmelroy/PhoneNumberKit`, tag `3.7.2`)
+  - PhoneNumberKit/PhoneNumberKitCore (from `https://github.com/marmelroy/PhoneNumberKit`, tag `3.7.4`)
 
 EXTERNAL SOURCES:
   Flutter:
@@ -17,18 +17,18 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/phone_number/ios"
   PhoneNumberKit:
     :git: https://github.com/marmelroy/PhoneNumberKit
-    :tag: 3.7.2
+    :tag: 3.7.4
 
 CHECKOUT OPTIONS:
   PhoneNumberKit:
     :git: https://github.com/marmelroy/PhoneNumberKit
-    :tag: 3.7.2
+    :tag: 3.7.4
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  phone_number: f3e19692d8f4e7de14865db328bd100342ff35e6
-  PhoneNumberKit: f8e2693b9b192ac170a1f9d039fab9f4e4f068ec
+  phone_number: c07b83f2af169260ca74e6ee7e981487a9354094
+  PhoneNumberKit: e3c4dc9f65bc2036639898095c2ab1ef89348f64
 
-PODFILE CHECKSUM: 8b40f7aebc9e79b81e30d1724bc6072d59157c7d
+PODFILE CHECKSUM: 1b9b103a43eb2857c42659ccf13e00de5848253e
 
 COCOAPODS: 1.13.0
